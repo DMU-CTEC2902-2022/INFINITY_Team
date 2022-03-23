@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Elegant_College.Models.Console>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ConsoleName)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ConsoleName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ConsoleID }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ConsoleID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.ConsoleID })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

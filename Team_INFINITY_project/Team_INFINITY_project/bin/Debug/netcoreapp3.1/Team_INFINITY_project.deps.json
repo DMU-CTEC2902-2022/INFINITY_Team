@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Team_INFINITY_project/1.0.0": {
+        "runtime": {
+          "Team_INFINITY_project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Team_INFINITY_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
