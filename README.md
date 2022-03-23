@@ -1,5 +1,7 @@
 # INFINITY_Team
 
+- [Coursework Brief](https://vle.dmu.ac.uk/bbcswebdav/pid-5687216-dt-content-rid-11305925_1/courses/CTEC2902_2122_520/CTEC2902_Assignment_2_2021-2022%281%29.pdf)
+
 <details>
     <summary>  <b>Key Dates</b></summary><br/>
   
