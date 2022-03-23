@@ -1,7 +1,7 @@
 # INFINITY_Team
 
 <details>
-    <summary> 📑 <b>Submission Dates</b></summary><br/>
+    <summary>  <b>Key Dates</b></summary><br/>
   
 | Submission | Submission Date | Status |
 | :---         |     :---:      |          ---: |
@@ -11,12 +11,15 @@
 </details>
   
 <details>
-    <summary><b>Roles</b></summary><br/>
+    <summary> 🙆 <b>Roles</b></summary><br/>
   
-| Users|
+| User | Their DB |
 | --- | --- |
 | [Ethan Frizzell](https://github.com/Frizzle15) | Developer |
 | [Luke Lydiatt](https://github.com/LLydiatt) | System Analyst |
 | [Kartik Sally](https://github.com/LLydiatt) | Developer |
 
+
   </details>
+  
+ 
