@@ -13,7 +13,7 @@
 </details>
   
 <details>
-    <summary> 🙆 <b>Roles</b></summary><br/>
+    <summary> <b>Roles</b></summary><br/>
   
 | User | Their Role |
 | --- | --- |
