@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team_INFINITY_project", "Team_INFINITY_project\Team_INFINITY_project.csproj", "{0F48051E-151D-4F77-BEFE-90BA6336083A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Team_INFINITY_project", "Team_INFINITY_project\Team_INFINITY_project.csproj", "{0F48051E-151D-4F77-BEFE-90BA6336083A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elegant College", "Elegant College\Elegant College.csproj", "{4113B5C3-AA5B-40D3-903B-43E6D3678BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elegant College.Tests", "Elegant College.Tests\Elegant College.Tests.csproj", "{220725B0-DA44-42AE-9393-A1A3473F889A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0F48051E-151D-4F77-BEFE-90BA6336083A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F48051E-151D-4F77-BEFE-90BA6336083A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F48051E-151D-4F77-BEFE-90BA6336083A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4113B5C3-AA5B-40D3-903B-43E6D3678BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4113B5C3-AA5B-40D3-903B-43E6D3678BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4113B5C3-AA5B-40D3-903B-43E6D3678BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4113B5C3-AA5B-40D3-903B-43E6D3678BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220725B0-DA44-42AE-9393-A1A3473F889A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220725B0-DA44-42AE-9393-A1A3473F889A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220725B0-DA44-42AE-9393-A1A3473F889A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220725B0-DA44-42AE-9393-A1A3473F889A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,74 @@
+﻿@model GameShop.Models.Game
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Game</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.console.ConsoleName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.console.ConsoleName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Condition)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Condition)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.ReleaseDate)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.ReleaseDate)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.OrignalPrice)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.OrignalPrice)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DiscountPrice)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DiscountPrice)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.GameId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

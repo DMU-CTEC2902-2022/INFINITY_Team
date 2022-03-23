@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShop", "GameShop\GameShop.csproj", "{18B694DC-1A31-457C-A782-A5CF925FF8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShop.Tests", "GameShop.Tests\GameShop.Tests.csproj", "{A8F09A33-1236-4C10-975B-781B03A4DF89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B694DC-1A31-457C-A782-A5CF925FF8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B694DC-1A31-457C-A782-A5CF925FF8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B694DC-1A31-457C-A782-A5CF925FF8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B694DC-1A31-457C-A782-A5CF925FF8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F09A33-1236-4C10-975B-781B03A4DF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F09A33-1236-4C10-975B-781B03A4DF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F09A33-1236-4C10-975B-781B03A4DF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F09A33-1236-4C10-975B-781B03A4DF89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C08E87CB-5B47-4AC2-A9DB-E4789C03D490}
+	EndGlobalSection
+EndGlobal
