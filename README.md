@@ -15,7 +15,7 @@
 <details>
     <summary> 🙆 <b>Roles</b></summary><br/>
   
-| User | Their DB |
+| User | Their Role |
 | --- | --- |
 | [Ethan Frizzell](https://github.com/Frizzle15) | Developer |
 | [Luke Lydiatt](https://github.com/LLydiatt) | System Analyst |
