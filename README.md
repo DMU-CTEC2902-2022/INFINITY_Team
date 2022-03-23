@@ -19,7 +19,7 @@
 | --- | --- |
 | [Ethan Frizzell](https://github.com/Frizzle15) | Developer |
 | [Luke Lydiatt](https://github.com/LLydiatt) | System Analyst |
-| [Kartik Sally](https://github.com/LLydiatt) | Developer |
+| [Kartik Sally](https://github.com/KartikSR7) | Developer |
 
 
   </details>
