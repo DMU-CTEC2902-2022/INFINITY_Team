@@ -10,8 +10,8 @@
   
 | Submission | Submission Date | Status |
 | :---         |     :---:      |          ---: |
-| [Main System]   | 19-April-2022     | <ul><li>[ ] Completed </li></ul>   |
-| [Presentation])     | 24-Mar-2022       | <ul><li>[ ] Completed </li></ul>      |
+| Main System   | 19-April-2022     | <ul><li>[ ] Completed </li></ul>   |
+| Presentation    | 24-Mar-2022       | <ul><li>[ ] Completed </li></ul>      |
 
 </details>
   
