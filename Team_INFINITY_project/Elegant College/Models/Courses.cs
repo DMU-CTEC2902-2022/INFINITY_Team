@@ -19,5 +19,13 @@ namespace Elegant_College.Models
         public virtual String Faculty { get; set; }
         public virtual String FacultyExperience { get; set; }
 
+        internal class Models
+        {
+            internal class Console
+            {
+                public int ConsoleId { get; internal set; }
+                public string ConsoleName { get; internal set; }
+            }
+        }
     }
 }
