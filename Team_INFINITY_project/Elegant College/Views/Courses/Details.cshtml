@@ -1,0 +1,90 @@
+﻿@model Elegant_College.Models.Courses
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Courses</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.ConsoleID)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.ConsoleID)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.ModuleCode)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.ModuleCode)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Duration)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Duration)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DifficultyLevel)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DifficultyLevel)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Fee)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Fee)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Faculty)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Faculty)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.FacultyExperience)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.FacultyExperience)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CoursesID }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

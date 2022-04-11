@@ -10,3 +10,16 @@ H:\Documents\aap assign 2 colleges\Team_INFINITY_project\Team_INFINITY_project\o
 H:\Documents\aap assign 2 colleges\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.dll
 H:\Documents\aap assign 2 colleges\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.pdb
 H:\Documents\aap assign 2 colleges\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.genruntimeconfig.cache
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\bin\Debug\netcoreapp3.1\Team_INFINITY_project.exe
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\bin\Debug\netcoreapp3.1\Team_INFINITY_project.deps.json
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\bin\Debug\netcoreapp3.1\Team_INFINITY_project.runtimeconfig.json
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\bin\Debug\netcoreapp3.1\Team_INFINITY_project.runtimeconfig.dev.json
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\bin\Debug\netcoreapp3.1\Team_INFINITY_project.dll
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\bin\Debug\netcoreapp3.1\Team_INFINITY_project.pdb
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.csproj.AssemblyReference.cache
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.AssemblyInfoInputs.cache
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.AssemblyInfo.cs
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.csproj.CoreCompileInputs.cache
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.dll
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.pdb
+H:\Documents\0904 aap\Team_INFINITY_project\Team_INFINITY_project\obj\Debug\netcoreapp3.1\Team_INFINITY_project.genruntimeconfig.cache
