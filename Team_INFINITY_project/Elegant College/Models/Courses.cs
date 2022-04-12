@@ -5,11 +5,11 @@ using System.Web;
 
 namespace Elegant_College.Models
 {
-    public class Courses
+    public class Course
     {
 
-        public virtual int  CoursesID {get; set;}
-        public virtual int ConsoleID { get; set; }
+        public virtual int  CourseId {get; set;}
+        public virtual int ConsoleId { get; set; }
 
         public virtual int ModuleCode { get; set; }
         public virtual String CourseName { get; set; }

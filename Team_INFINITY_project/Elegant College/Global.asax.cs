@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Elegant_College.Models;
+using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -12,7 +14,7 @@ namespace Elegant_College
     {
         protected void Application_Start()
         {
-            Database.SetInitializer(new CoursesDataInitializer());
+            Database.SetInitializer(new CoursesDataInitialiser());
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
