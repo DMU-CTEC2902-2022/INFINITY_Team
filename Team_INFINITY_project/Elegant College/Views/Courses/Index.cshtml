@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Elegant_College.Models.Courses>
+﻿@model IEnumerable<Elegant_College.Models.Course>
 
 @{
     Layout = null;
@@ -71,9 +71,9 @@
                 @Html.DisplayFor(modelItem => item.FacultyExperience)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id=item.CoursesID }) |
-                @Html.ActionLink("Details", "Details", new { id=item.CoursesID }) |
-                @Html.ActionLink("Delete", "Delete", new { id=item.CoursesID })
+                @Html.ActionLink("Edit", "Edit", new { id=item.CoursesId}) |
+                @Html.ActionLink("Details", "Details", new { id=item.CoursesId }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.CoursesId})
             </td>
         </tr>
     }

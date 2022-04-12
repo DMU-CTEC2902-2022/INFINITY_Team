@@ -14,7 +14,10 @@
 <body>
     <p>
         @Html.ActionLink("Create New", "Create")
+        <h1> Courses List </h1>
     </p>
+  
+    </td>
     <table class="table">
         <tr>
             <th>
@@ -22,20 +25,21 @@
             </th>
             <th></th>
         </tr>
-    
-    @foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.ConsoleName)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { id=item.ConsoleID }) |
-                @Html.ActionLink("Details", "Details", new { id=item.ConsoleID }) |
-                @Html.ActionLink("Delete", "Delete", new { id=item.ConsoleID })
-            </td>
-        </tr>
-    }
-    
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ConsoleName)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ConsoleId }) |
+                    @Html.ActionLink("Details", "../Games/Index", new { id = item.ConsoleId })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ConsoleId })
+                </td>
+            </tr>
+        }
+
     </table>
 </body>
 </html>
