@@ -16,10 +16,22 @@ namespace Elegant_College.Controllers
         private CourseContext db = new CourseContext();
 
         // GET: Courses
-        public ActionResult Index()
+        public ActionResult Index(int? Id)
         {
-            return View(db.Courses.ToList());
+            List<Course> courseList;
+            var courses = db.Courses.Include(g => g.ConsoleId);
+            if (Id != null)
+                courseList = courses.ToList().FindAll(p => p.ConsoleId == Id); // retrieve
+          //  all courses for id
+            else courseList = courses.ToList();    // Retrieve all courses
+           
+            if (courseList.Count() == 0)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            return View(courseList);
         }
+
 
         // GET: Courses/Details/5
         public ActionResult Details(int? id)

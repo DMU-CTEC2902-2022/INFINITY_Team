@@ -78,3 +78,43 @@ H:\Documents\0904 aap\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Eleg
 H:\Documents\0904 aap\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.csproj.CopyComplete
 H:\Documents\0904 aap\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.dll
 H:\Documents\0904 aap\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.pdb
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Elegant College.Tests.dll.config
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Elegant College.Tests.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Elegant College.Tests.pdb
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Elegant College.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.Helpers.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.Mvc.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.Razor.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.WebPages.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.Optimization.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\EntityFramework.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\WebGrease.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Antlr3.Runtime.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Elegant College.pdb
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Elegant College.dll.config
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.Helpers.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.Mvc.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.Razor.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.WebPages.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\System.Web.Optimization.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\EntityFramework.xml
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\bin\Debug\Antlr3.Runtime.pdb
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.csproj.AssemblyReference.cache
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.csproj.CoreCompileInputs.cache
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.csproj.CopyComplete
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.dll
+H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.pdb
