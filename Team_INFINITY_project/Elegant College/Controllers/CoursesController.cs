@@ -13,7 +13,7 @@ namespace Elegant_College.Controllers
 {
     public class CoursesController : Controller
     {
-        private CoursesContext db = new CoursesContext();
+        private CourseContext db = new CourseContext();
 
         // GET: Courses
         public ActionResult Index()
@@ -28,7 +28,7 @@ namespace Elegant_College.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Courses courses = db.Courses.Find(id);
+            Course courses = db.Courses.Find(id);
             if (courses == null)
             {
                 return HttpNotFound();
@@ -47,7 +47,7 @@ namespace Elegant_College.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "CoursesID,ConsoleID,ModuleCode,CourseName,Duration,DifficultyLevel,Fee,Faculty,FacultyExperience")] Courses courses)
+        public ActionResult Create([Bind(Include = "CoursesID,ConsoleID,ModuleCode,CourseName,Duration,DifficultyLevel,Fee,Faculty,FacultyExperience")] Course courses)
         {
             if (ModelState.IsValid)
             {
@@ -66,7 +66,7 @@ namespace Elegant_College.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Courses courses = db.Courses.Find(id);
+            Course courses = db.Courses.Find(id);
             if (courses == null)
             {
                 return HttpNotFound();
@@ -79,7 +79,7 @@ namespace Elegant_College.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "CoursesID,ConsoleID,ModuleCode,CourseName,Duration,DifficultyLevel,Fee,Faculty,FacultyExperience")] Courses courses)
+        public ActionResult Edit([Bind(Include = "CoursesID,ConsoleID,ModuleCode,CourseName,Duration,DifficultyLevel,Fee,Faculty,FacultyExperience")] Course courses)
         {
             if (ModelState.IsValid)
             {
@@ -97,7 +97,7 @@ namespace Elegant_College.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Courses courses = db.Courses.Find(id);
+            Course courses = db.Courses.Find(id);
             if (courses == null)
             {
                 return HttpNotFound();
@@ -110,7 +110,7 @@ namespace Elegant_College.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
-            Courses courses = db.Courses.Find(id);
+            Course courses = db.Courses.Find(id);
             db.Courses.Remove(courses);
             db.SaveChanges();
             return RedirectToAction("Index");

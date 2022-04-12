@@ -7,7 +7,7 @@ namespace Elegant_College.Models
 {
     public class Console
     {
-        public virtual int ConsoleID { get; set; }
+        public virtual int ConsoleId { get; set; }
 
         public virtual string ConsoleName { get; set; }
     }

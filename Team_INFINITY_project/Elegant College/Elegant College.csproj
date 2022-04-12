@@ -130,7 +130,7 @@
     <Compile Include="Controllers\CoursesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Data\ConsoleContext.cs" />
-    <Compile Include="Data\CoursesContext.cs" />
+    <Compile Include="Data\CourseContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

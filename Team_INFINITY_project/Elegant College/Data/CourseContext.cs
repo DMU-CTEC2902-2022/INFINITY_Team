@@ -6,7 +6,7 @@ using System.Web;
 
 namespace Elegant_College.Data
 {
-    public class CoursesContext : DbContext
+    public class CourseContext : DbContext
     {
         // You can add custom code to this file. Changes will not be overwritten.
         // 
@@ -15,10 +15,11 @@ namespace Elegant_College.Data
         // For more information refer to the documentation:
         // http://msdn.microsoft.com/en-us/data/jj591621.aspx
     
-        public CoursesContext() : base("name=CoursesContext")
+        public CourseContext() : base("name=CoursesContext")
         {
         }
 
-        public System.Data.Entity.DbSet<Elegant_College.Models.Courses> Courses { get; set; }
+        public System.Data.Entity.DbSet<Elegant_College.Models.Course> Courses { get; set; }
+        public System.Data.Entity.DbSet<Elegant_College.Models.Console> Consoles { get; set; }
     }
 }

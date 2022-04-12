@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Documents\\0904 aap\\Team_INFINITY_project\\Team_INFINITY_project\\Team_INFINITY_project.csproj",
+      "projectUniqueName": "H:\\Documents\\1AAP college\\Team_INFINITY_project\\Team_INFINITY_project\\Team_INFINITY_project.csproj",
       "projectName": "Team_INFINITY_project",
-      "projectPath": "H:\\Documents\\0904 aap\\Team_INFINITY_project\\Team_INFINITY_project\\Team_INFINITY_project.csproj",
+      "projectPath": "H:\\Documents\\1AAP college\\Team_INFINITY_project\\Team_INFINITY_project\\Team_INFINITY_project.csproj",
       "packagesPath": "C:\\Users\\P2622948\\.nuget\\packages\\",
-      "outputPath": "H:\\Documents\\0904 aap\\Team_INFINITY_project\\Team_INFINITY_project\\obj\\",
+      "outputPath": "H:\\Documents\\1AAP college\\Team_INFINITY_project\\Team_INFINITY_project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
