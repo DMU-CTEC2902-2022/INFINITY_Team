@@ -26,5 +26,12 @@ namespace Elegant_College.Controllers
 
             return View();
         }
+
+        public ActionResult Course()
+        {
+            ViewBag.Message = "Your course page";
+
+            return View();
+        }
     }
 }
