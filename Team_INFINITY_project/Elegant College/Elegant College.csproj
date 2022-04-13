@@ -129,6 +129,7 @@
     <Compile Include="Controllers\ConsolesController.cs" />
     <Compile Include="Controllers\CoursesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Data\CoursesContext.cs" />
     <Compile Include="Data\ModuleContext.cs" />
     <Compile Include="Global.asax.cs">
