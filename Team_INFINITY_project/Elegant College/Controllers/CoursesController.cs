@@ -13,15 +13,15 @@ namespace Elegant_College.Controllers
 {
     public class CoursesController : Controller
     {
-        private ModuleContext db = new ModuleContext();
+        private CoursesContext db = new CoursesContext();
 
         // GET: Courses
         public ActionResult Index(int? Id)
         {
             List<Course> courseList;
-            var courses = db.Courses.Include(g => g.ConsoleId);
+            var courses = db.Courses.Include(g => g.CourseID);
             if (Id != null)
-                courseList = courses.ToList().FindAll(p => p.ConsoleId == Id); // retrieve
+                courseList = courses.ToList().FindAll(p => p.CourseID == Id); // retrieve
           //  all courses for id
             else courseList = courses.ToList();    // Retrieve all courses
            
@@ -41,6 +41,7 @@ namespace Elegant_College.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Course courses = db.Courses.Find(id);
+
             if (courses == null)
             {
                 return HttpNotFound();
@@ -59,7 +60,7 @@ namespace Elegant_College.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "CoursesID,ConsoleID,ModuleCode,CourseName,Duration,DifficultyLevel,Fee,Faculty,FacultyExperience")] Course courses)
+        public ActionResult Create([Bind(Include = "CourseID, CourseName")] Course courses)
         {
             if (ModelState.IsValid)
             {
@@ -91,7 +92,7 @@ namespace Elegant_College.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "CoursesID,ConsoleID,ModuleCode,CourseName,Duration,DifficultyLevel,Fee,Faculty,FacultyExperience")] Course courses)
+        public ActionResult Edit([Bind(Include = "CourseID, CourseName")] Course courses)
         {
             if (ModelState.IsValid)
             {
