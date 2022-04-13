@@ -8,6 +8,32 @@
 <body>
     <div>
         @RenderBody()
+
+        <table class="table table-striped">
+            <tr>
+                <th>ModuleCode</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Contents</th>
+                <th>StaffAssociated</th>
+           
+            </tr>
+            @foreach (var product in @Model.Items)
+            {
+        <tr>
+            <td>@product.ModuleCode</td>
+            <td>@product.Title</td>
+            <td>@product.Description</td>
+            <td>@product.Contents</td>
+             <td>@product.StaffAssociated</td>
+            <td class="text-right">@product.Price</td>
+        </tr>
+       }
+            <tr class="table-info">
+                <td>Total</td>
+                <td colspan="3" class="text-right">@Model.GetTotal()</td>
+            </tr>
+        </table>
     </div>
 </body>
 </html>
