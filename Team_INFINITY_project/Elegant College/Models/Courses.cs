@@ -7,7 +7,9 @@ namespace Elegant_College.Models
 {
     public class Course
     {
+        //attributes for each course
 
+        //get and set methods for each attribute
         public virtual int  CourseId {get; set;}
         public virtual int ConsoleId { get; set; }
 

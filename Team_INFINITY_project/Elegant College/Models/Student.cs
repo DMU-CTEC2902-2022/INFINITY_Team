@@ -7,13 +7,17 @@ namespace Elegant_College.Models
 {
     public class Student
     {
+        //student attributes
 
-        public int StudentId { get; set; }
+        //get and set methods for each attribute
+        public int StudentID { get; set; }
+
         public string Title { get; set; }
+
         public string FirstName { get; set; }
-       
+
         public string LastName { get; set; }
-       public string PhoneNo { get; set; }
-       
+
+        public string PhoneNo { get; set; }
     }
 }

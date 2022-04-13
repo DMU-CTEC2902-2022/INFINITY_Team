@@ -7,6 +7,9 @@ namespace Elegant_College.Models
 {
     public class Modules
     {
+        //attributes for modules
+
+        //get and set methods for each attribute
         public int ModuleCode{ get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
