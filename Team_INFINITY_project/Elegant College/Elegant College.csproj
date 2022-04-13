@@ -138,7 +138,7 @@
     <Compile Include="Models\Courses.cs" />
     <Compile Include="Models\ModulesDataInitializer.cs" />
     <Compile Include="Models\Modules.cs" />
-    <Compile Include="Models\Student.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
