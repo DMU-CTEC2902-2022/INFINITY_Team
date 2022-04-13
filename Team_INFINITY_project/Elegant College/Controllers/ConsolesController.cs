@@ -15,7 +15,7 @@ namespace Elegant_College.Controllers
 {
     public class ConsolesController : Controller
     {
-        private ConsoleContext db = new ConsoleContext();
+        private CoursesContext db = new CoursesContext();
 
         // GET: Consoles
         public ActionResult Index()

@@ -13,7 +13,7 @@ namespace Elegant_College.Controllers
 {
     public class CoursesController : Controller
     {
-        private CourseContext db = new CourseContext();
+        private ModuleContext db = new ModuleContext();
 
         // GET: Courses
         public ActionResult Index(int? Id)
