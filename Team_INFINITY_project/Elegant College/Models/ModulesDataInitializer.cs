@@ -7,37 +7,20 @@ using System.Web;
 
 namespace Elegant_College.Models
 {
-    public class ModulessDataInitialiser :DropCreateDatabaseAlways<ModuleContext>
+    public class ModulessDataInitialiser : DropCreateDatabaseAlways<ModuleContext>
     {
 
         protected override void Seed(ModuleContext context)
         {
-            Elegant_College.Models.Course course1 = new Elegant_College.Models.Course();
-            course1.CourseId = 1;
-            course1.CourseName = "Computer Science";
-            context.Modules.Add(course1);
-
-            Elegant_College.Models.Course course2 = new Elegant_College.Models.Course();
-            course2.CourseId = 2;
-            course2.CourseName = "Software Engineering";
-            context.Modules.Add(course2);
-
-            Elegant_College.Models.Course course3 = new Elegant_College.Models.Course();
-            course3.CourseId = 3;
-            course3.CourseName = "Cyber Security";
-            context.Modules.Add(course3);
-
-            //...................................................................
-
-            Elegant_College.Models.Modules elegant = new Elegant_College.Models.Modules();
-            elegant.ModuleCode= 1;
-            elegant.Title= "C";
-            elegant.ModuleCode = 55;
-            elegant.Description = "35";
-            elegant.Contents= "Mid";
-            elegant.StaffAssociated= "£1|";
+            Elegant_College.Models.Modules module1 = new Elegant_College.Models.Modules();
+            module1.ModuleID = 1;
+            module1.CourseID = 1;
+            module1.ModuleCode = "COS1903";
+            module1.ModuleDescription = "Learn the multi paradigm programming language which supports both object orientated and functional programming";
+            module1.ModuleContents = "75% Coursework 25% Exam";
+            context.Modules.Add(module1);
            
-            context.Modules.Add(elegant);
+            
 
             elegant = new Elegant_College.Models.Modules();
             elegant.ModuleCode = 1;
@@ -47,7 +30,7 @@ namespace Elegant_College.Models
             elegant.Contents = "Mid";
             elegant.StaffAssociated = "£1|";
 
-            context.Modules.Add(elegant);
+            context.Modules.Add(module);
 
 
             elegant = new Elegant_College.Models.Modules();

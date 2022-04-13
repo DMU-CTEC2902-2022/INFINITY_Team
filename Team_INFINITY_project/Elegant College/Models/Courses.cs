@@ -10,16 +10,8 @@ namespace Elegant_College.Models
         //attributes for each course
 
         //get and set methods for each attribute
-        public virtual int  CourseId {get; set;}
-        public virtual int ConsoleId { get; set; }
-
-        public virtual int ModuleCode { get; set; }
-        public virtual String CourseName { get; set; }
-        public virtual String Duration { get; set; }
-        public virtual String DifficultyLevel { get; set; }
-        public virtual String Fee { get; set; }
-        public virtual String Faculty { get; set; }
-        public virtual String FacultyExperience { get; set; }
-
+        public virtual int CourseID { get; set; }
+        public virtual string CourseName { get; set; }
+        public virtual decimal CoursePrice { get; set; }
     }
 }

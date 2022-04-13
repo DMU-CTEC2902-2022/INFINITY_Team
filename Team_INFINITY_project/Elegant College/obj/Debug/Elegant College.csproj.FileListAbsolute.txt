@@ -246,3 +246,7 @@ H:\Documents\1AAP college\Team_INFINITY_project\Elegant College\obj\Debug\Elegan
 H:\Documents\1AAP college\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.dll
 H:\Documents\1AAP college\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.pdb
 H:\Documents\1AAP college\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.csproj.AssemblyReference.cache
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.csproj.AssemblyReference.cache
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.csproj.CoreCompileInputs.cache
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.pdb

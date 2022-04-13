@@ -15,10 +15,10 @@ namespace Elegant_College.Data
         // For more information refer to the documentation:
         // http://msdn.microsoft.com/en-us/data/jj591621.aspx
     
-        public CoursesContext() : base("name=ConsoleContext")
+        public CoursesContext() : base("name=CourseContext")
         {
         }
 
-        public System.Data.Entity.DbSet<Elegant_College.Models.Courses> Courses { get; set; }
+        public System.Data.Entity.DbSet<Elegant_College.Models.Course> Courses { get; set; }
     }
 }
