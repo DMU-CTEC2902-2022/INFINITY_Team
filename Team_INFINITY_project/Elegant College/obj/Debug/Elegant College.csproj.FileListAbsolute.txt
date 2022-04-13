@@ -250,3 +250,82 @@ E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\El
 E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.csproj.CoreCompileInputs.cache
 E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.dll
 E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.pdb
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Elegant College.dll.config
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Elegant College.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Elegant College.pdb
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\csc.exe
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\csc.exe.config
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\csc.rsp
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\csi.exe
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\csi.exe.config
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\csi.rsp
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.AppContext.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Collections.Immutable.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Console.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Globalization.Calendars.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.IO.Compression.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.IO.FileSystem.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Net.Http.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Net.Sockets.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Reflection.Metadata.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.ValueTuple.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Xml.XPath.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\vbc.exe
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\vbc.exe.config
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\vbc.rsp
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\VBCSCompiler.exe
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\roslyn\VBCSCompiler.exe.config
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Antlr3.Runtime.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\EntityFramework.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\EntityFramework.SqlServer.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Microsoft.Web.Infrastructure.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Newtonsoft.Json.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.Helpers.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.Mvc.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.Optimization.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.Razor.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.Deployment.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.Razor.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\WebGrease.dll
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\EntityFramework.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\EntityFramework.SqlServer.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.Helpers.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.Mvc.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.Optimization.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.Razor.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.Deployment.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.Razor.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Newtonsoft.Json.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Antlr3.Runtime.pdb
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.csproj.CopyComplete
