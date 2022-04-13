@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "en/k5WvQtfJe2g+YsN4qcPswgJZX0PCkeA1aiVCfMlBQpdXV/iCvMMb0Y7Y/dB0TBbOXSyEKPMq64L6Hlda33Q==",
+  "dgSpecHash": "wYUXW+HTfi6baxiPJnbsq1vOkO9KaLcGDizFOFrremt4E2+fvdQXqUDwBOFRZ46LWwc6jWm2ZvnkYGGgNKftmg==",
   "success": true,
   "projectFilePath": "H:\\Documents\\1AAP college\\Team_INFINITY_project\\Team_INFINITY_project\\Team_INFINITY_project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\P2622948\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512"
+  ],
   "logs": []
 }
