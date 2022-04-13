@@ -19,7 +19,7 @@ namespace Elegant_College.Data
         {
         }
 
-        public System.Data.Entity.DbSet<Elegant_College.Models.Course> Modules { get; set; }
-        public System.Data.Entity.DbSet<Elegant_College.Models.Console> Courses { get; set; }
+        public System.Data.Entity.DbSet<Elegant_College.Models.Modules> Modules { get; set; }
+        
     }
 }

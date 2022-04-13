@@ -20,41 +20,6 @@ namespace Elegant_College.Models
             module1.ModuleContents = "75% Coursework 25% Exam";
             context.Modules.Add(module1);
            
-            
-
-            elegant = new Elegant_College.Models.Modules();
-            elegant.ModuleCode = 1;
-            elegant.Title = "C";
-            elegant.ModuleCode = 55;
-            elegant.Description = "35";
-            elegant.Contents = "Mid";
-            elegant.StaffAssociated = "£1|";
-
-            context.Modules.Add(module);
-
-
-            elegant = new Elegant_College.Models.Modules();
-            elegant.ModuleCode = 1;
-            elegant.Title = "C";
-            elegant.ModuleCode = 55;
-            elegant.Description = "35";
-            elegant.Contents = "Mid";
-            elegant.StaffAssociated = "£1|";
-
-            context.Modules.Add(elegant);
-
-
-            elegant = new Elegant_College.Models.Modules();
-            elegant.ModuleCode = 1;
-            elegant.Title = "C";
-            elegant.ModuleCode = 55;
-            elegant.Description = "35";
-            elegant.Contents = "Mid";
-            elegant.StaffAssociated = "£1|";
-
-            context.Modules.Add(elegant);
-
-
             base.Seed(context);
         }
     }
