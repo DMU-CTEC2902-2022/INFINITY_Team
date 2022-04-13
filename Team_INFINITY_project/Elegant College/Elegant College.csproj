@@ -161,9 +161,6 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Views\Home\ComputerScience.html" />
-    <Content Include="Views\Home\CyberSecurity.html" />
-    <Content Include="Views\Home\SoftwareEngineering.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -188,6 +185,9 @@
     <Content Include="Views\Courses\Details.cshtml" />
     <Content Include="Views\Courses\Edit.cshtml" />
     <Content Include="Views\Courses\Index.cshtml" />
+    <Content Include="Views\Home\SoftwareEngineering.cshtml" />
+    <Content Include="Views\Home\ComputerScience.cshtml" />
+    <Content Include="Views\Home\CyberSecurity.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
