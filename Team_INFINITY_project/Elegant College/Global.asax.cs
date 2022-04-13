@@ -14,7 +14,7 @@ namespace Elegant_College
     {
         protected void Application_Start()
         {
-            Database.SetInitializer(new CoursesDataInitialiser());
+            Database.SetInitializer(new CoursesDataInitializer());
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
