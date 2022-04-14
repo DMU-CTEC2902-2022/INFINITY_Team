@@ -1,0 +1,72 @@
+﻿@model Elegant_College.Models.Modules
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+
+    <div>
+        <h4>Modules</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseID)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.CourseID)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ModuleCode)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ModuleCode)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ModuleTitle)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ModuleTitle)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ModuleDescription)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ModuleDescription)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ModuleContents)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ModuleContents)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.StaffAssociated)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.StaffAssociated)
+            </dd>
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ModuleID }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+

@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Elegant_College.Models.Modules>
+
+@{
+    ViewBag.Title = "Modules";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+        <h1> Courses List </h1>
+    </p>
+  
+    
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModuleCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModuleTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModuleDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModuleContents)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StaffAssociated)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CourseID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ModuleCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ModuleTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ModuleDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ModuleContents)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StaffAssociated)
+        </td>
+        <td>
+
+            @Html.ActionLink("Details", "Details", new { id = item.ModuleID }) |
+
+        </td>
+    </tr>
+        }
+
+    </table>
+</body>
+</html>
