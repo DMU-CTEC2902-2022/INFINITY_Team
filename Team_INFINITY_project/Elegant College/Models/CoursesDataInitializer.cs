@@ -18,13 +18,13 @@ namespace Elegant_College.Models
             context.Courses.Add(course1);
 
             Elegant_College.Models.Course course2 = new Elegant_College.Models.Course();
-            course1.CourseID = 2;
-            course1.CourseName = "Software Engineering";
+            course2.CourseID = 2;
+            course2.CourseName = "Software Engineering";
             context.Courses.Add(course2);
 
             Elegant_College.Models.Course course3 = new Elegant_College.Models.Course();
-            course1.CourseID = 3;
-            course1.CourseName = "Cyber Security";
+            course3.CourseID = 3;
+            course3.CourseName = "Cyber Security";
             context.Courses.Add(course3);
 
             base.Seed(context);
