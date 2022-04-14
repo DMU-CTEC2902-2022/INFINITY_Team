@@ -118,3 +118,7 @@ H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\obj\Debug\
 H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.csproj.CopyComplete
 H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.dll
 H:\Documents\1AAP college\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.pdb
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.csproj.AssemblyReference.cache
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.csproj.CoreCompileInputs.cache
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College.Tests\obj\Debug\Elegant College.Tests.pdb
