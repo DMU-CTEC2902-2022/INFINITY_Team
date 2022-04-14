@@ -10,8 +10,9 @@ namespace Elegant_College.Models
         //attributes for modules
 
         //get and set methods for each attribute
+      
         public virtual int ModuleID { get; set; }
-        public virtual int CourseID {get; set;}
+        public virtual int CourseID { get; set; }
         public virtual string ModuleTitle { get; set; }
         public virtual string ModuleCode { get; set; }
         public virtual string ModuleDescription { get; set; }
@@ -19,5 +20,5 @@ namespace Elegant_College.Models
         public virtual string StaffAssociated { get; set; }
         public virtual Course course { get; set; }
 
-     }
+    }
 }
