@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>@ViewBag.Title</title>
+    <title>Computer Science</title>
 </head>
 <body>
     <div>
@@ -11,28 +11,26 @@
 
         <table class="table table-striped">
             <tr>
+             
                 <th>ModuleCode</th>
                 <th>Title</th>
                 <th>Description</th>
                 <th>Contents</th>
                 <th>StaffAssociated</th>
-           
+
             </tr>
-            @foreach (var product in @Model.Items)
+            @foreach (var module in @Model.Modules)
             {
         <tr>
-            <td>@product.ModuleCode</td>
-            <td>@product.Title</td>
-            <td>@product.Description</td>
-            <td>@product.Contents</td>
-             <td>@product.StaffAssociated</td>
-            <td class="text-right">@product.Price</td>
+            <td>@module.ModuleCode</td>
+            <td>@module.ModuleTitle</td>
+            <td>@module.ModuleDescription</td>
+            <td>@module.ModuleContents</td>
+             <td>@module.StaffAssociated</td>
+            
         </tr>
-       }
-            <tr class="table-info">
-                <td>Total</td>
-                <td colspan="3" class="text-right">@Model.GetTotal()</td>
-            </tr>
+            }
+
         </table>
     </div>
 </body>
