@@ -16,6 +16,7 @@ namespace Elegant_College.Models
         public virtual string ModuleCode { get; set; }
         public virtual string ModuleDescription { get; set; }
         public virtual string ModuleContents { get; set; }
+        public virtual string StaffAssociated { get; set; }
         public virtual Course course { get; set; }
 
      }

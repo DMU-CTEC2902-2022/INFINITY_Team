@@ -57,7 +57,7 @@ namespace Elegant_College.Controllers
 
         // POST: Courses/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "CourseID, CourseName")] Course courses)

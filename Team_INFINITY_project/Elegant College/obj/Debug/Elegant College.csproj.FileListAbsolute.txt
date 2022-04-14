@@ -329,3 +329,86 @@ E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\El
 E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Antlr3.Runtime.pdb
 E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\Uni Work\Year 2\Advanced Programming\13-04-2022 REAL\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.csproj.CopyComplete
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Elegant College.dll.config
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Elegant College.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Elegant College.pdb
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\csc.exe
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\csc.exe.config
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\csc.rsp
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\csi.exe
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\csi.exe.config
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\csi.rsp
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.AppContext.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Collections.Immutable.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Console.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Globalization.Calendars.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.IO.Compression.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.IO.FileSystem.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Net.Http.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Net.Sockets.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Reflection.Metadata.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.ValueTuple.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Xml.XPath.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\vbc.exe
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\vbc.exe.config
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\vbc.rsp
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\VBCSCompiler.exe
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\roslyn\VBCSCompiler.exe.config
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Antlr3.Runtime.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\EntityFramework.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\EntityFramework.SqlServer.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Microsoft.Web.Infrastructure.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Newtonsoft.Json.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.Helpers.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.Mvc.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.Optimization.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.Razor.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.Deployment.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.Razor.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\WebGrease.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\EntityFramework.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\EntityFramework.SqlServer.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.Helpers.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.Mvc.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.Optimization.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.Razor.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.Deployment.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\System.Web.WebPages.Razor.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Newtonsoft.Json.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Antlr3.Runtime.pdb
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.csproj.AssemblyReference.cache
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.csproj.CoreCompileInputs.cache
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.csproj.CopyComplete
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.dll
+H:\Documents\aa ethan 14\Team_INFINITY_project\Elegant College\obj\Debug\Elegant College.pdb
