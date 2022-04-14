@@ -224,6 +224,8 @@
     <Content Include="Views\Home\SoftwareEngineering.cshtml" />
     <Content Include="Views\Home\ComputerScience.cshtml" />
     <Content Include="Views\Home\CyberSecurity.cshtml" />
+    <Content Include="Views\Registration\Registration.cshtml" />
+    <Content Include="Views\Home\Register.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
