@@ -3,11 +3,35 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>@ViewBag.Title</title>
+    <title>Software Engineering</title>
 </head>
 <body>
     <div>
         @RenderBody()
+
+        <table class="table table-striped">
+            <tr>
+
+                <th>ModuleCode</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Contents</th>
+                <th>StaffAssociated</th>
+
+            </tr>
+            @foreach (var module in @Model.Modules)
+            {
+                <tr>
+                    <td>@module.ModuleCode</td>
+                    <td>@module.ModuleTitle</td>
+                    <td>@module.ModuleDescription</td>
+                    <td>@module.ModuleContents</td>
+                    <td>@module.StaffAssociated</td>
+
+                </tr>
+            }
+
+        </table>
     </div>
 </body>
 </html>
