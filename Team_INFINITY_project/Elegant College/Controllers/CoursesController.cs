@@ -15,7 +15,7 @@ namespace Elegant_College.Controllers
     {
         private CoursesContext db = new CoursesContext();
 
-        // GET: Courses
+        // getting courses
         public ActionResult Index(int? Id)
         {
             List<Course> courseList;
@@ -23,7 +23,7 @@ namespace Elegant_College.Controllers
             if (Id != null)
                 courseList = courses.ToList().FindAll(p => p.CourseID == Id); // retrieve
           //  all courses for id
-            else courseList = courses.ToList();    // Retrieve all courses
+            else courseList = courses.ToList();    // Retrieving all courses
            
             if (courseList.Count() == 0)
             {

@@ -8,6 +8,7 @@ namespace Elegant_College.Controllers
 {
     public class HomeController : Controller
     {
+        //Action results for the user action at home page
         public ActionResult Index()
         {
             return View();

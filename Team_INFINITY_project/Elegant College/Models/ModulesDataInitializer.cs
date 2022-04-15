@@ -9,7 +9,7 @@ namespace Elegant_College.Models
 {
     public class ModulessDataInitialiser : DropCreateDatabaseAlways<ModuleContext>
     {
-
+        //data for each of the module in the courses
         protected override void Seed(ModuleContext context)
         {
             Elegant_College.Models.Modules module1 = new Elegant_College.Models.Modules();
