@@ -1,9 +1,5 @@
 ﻿<!DOCTYPE html>
-<header class="header">
-    <div class="overlay"></div>
-    <link href="~/StyleSheet/StyleSheet.css" rel="stylesheet" />
-</header>
-<script src="~/Views/Home/main.js"></script>
+
 <html>
 <!-- navbar -->
 <nav class="navbar navbar-expand-lg fixed-top ">
@@ -31,15 +27,21 @@
         </ul>
     </div>
 </nav>
+<header class="header">
+    <div class="overlay"></div>
+    <link href="~/StyleSheet/StyleSheet.css" rel="stylesheet" />
+</header>
+<script src="~/Views/Home/main.js"></script>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Computer Science</title>
+    <title>Cyber Security</title>
 </head>
 <body>
     <div>
         @RenderBody()
-        <!--Table heading for the modules-->
+
         <table class="table table-striped">
+            <!--Table heading for the modules-->
             <tr>
 
                 <th>ModuleCode</th>
@@ -63,6 +65,7 @@
 
         </table>
         <!-- Adverts section-- displays different adverts of companies at the footer -->
+
         <div class="Advertisements">
             <div class="container">
                 <h1 class="text-center">Advertisements</h1>
