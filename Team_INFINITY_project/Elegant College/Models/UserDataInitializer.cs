@@ -9,6 +9,7 @@ namespace Elegant_College.Models
 {
     public class UserDataInitialiser : DropCreateDatabaseAlways<UserContext>
     {
+        //some data for referrring 
         protected override void Seed(UserContext context)
         {
 

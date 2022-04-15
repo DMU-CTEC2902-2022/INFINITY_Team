@@ -9,6 +9,7 @@ namespace Elegant_College.Controllers
 {
     public class UserController
     {
+        // get and set properties for user attributes
         public int UserId { get; set; }
         public string Title { get; set; }
         public string FirstName { get; set; }

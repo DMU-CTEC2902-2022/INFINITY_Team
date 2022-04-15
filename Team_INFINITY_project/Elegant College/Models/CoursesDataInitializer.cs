@@ -9,6 +9,7 @@ namespace Elegant_College.Models
 {
     public class CoursesDataInitializer : DropCreateDatabaseAlways<CoursesContext>
     {
+        // data for the available courses at the college
         protected override void Seed(CoursesContext context)
         {
 

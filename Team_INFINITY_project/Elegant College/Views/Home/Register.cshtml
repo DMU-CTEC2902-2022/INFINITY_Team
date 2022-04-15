@@ -4,71 +4,160 @@
 }
 <title>Registration</title>
 
+<!-- navbar -->
+<nav class="navbar navbar-expand-lg fixed-top ">
+    <a class="navbar-brand" href="#">Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse " id="navbarSupportedContent">
+        <ul class="navbar-nav mr-4">
+            <li class="nav-item">
+                <a class="nav-link" data-value="about" href="#">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link " data-value="Success" href="#">Our Success</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link " data-value="blog" href="#">Blog</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link " data-value="Our Team" href="#">Our Team</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link " data-value="contact" href="#">Contact Us</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+@using (Html.BeginForm("Register", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <hr />
 
-                    @using (Html.BeginForm("Register", "Home", FormMethod.Post))
-                {
-                        @Html.AntiForgeryToken()
-                        <div class="form-horizontal">
-                        <hr/>
-                        
-                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
 
-                    <div class="form-group">
-                    @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
-                    <div class="col-md-10">
-                    @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
-                    @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
-                    </div>
-                     </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+            </div>
+        </div>
 
-                    <div class="form-group">
-                      @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
-                    <div class="col-md-10">
-                    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
-                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
-                    </div>
-                     </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
 
-                    <div class="form-group">
-                    @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "control-label col-md-2" })
-                    <div class="col-md-10">
-                    @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "form-control" } })
-                    @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
-                    </div>
-                     </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+            </div>
+        </div>
 
-                   <div class="form-group">
-                   @Html.LabelFor(model => model.Admin, htmlAttributes: new { @class = "control-label col-md-2" })
-                   <div class="col-md-10">
-                   <div class="checkbox">
+        <div class="form-group">
+            @Html.LabelFor(model => model.Admin, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
                     @Html.EditorFor(model => model.Admin)
                     @Html.ValidationMessageFor(model => model.Admin, "", new { @class = "text-danger" })
-                   </div>
                 </div>
-              </div>
+            </div>
+        </div>
 
 
 
-                  <div class="form-group">
-                  <div class="col-md-offset-2 col-md-10">
-                  <input type="submit" value="Register" class="btn btn-default" />
-                  </div>
-                   </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Register" class="btn btn-default" />
+            </div>
+        </div>
 
-                  <div class="form-group">
-                  <div class="col-md-offset-2 col-md-2">
-                  <label class="label-success">@ViewBag.SuccessMessage</label>
-                  </div>
-                  </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-2">
+                <label class="label-success">@ViewBag.SuccessMessage</label>
+            </div>
+        </div>
 
 
-                  <div class="form-group">
-                  <div class="col-md-offset-2 col-md-2">
-                      <label class="label-danger">@ViewBag.DuplicateMessage</label>
-                  </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-2">
+                <label class="label-danger">@ViewBag.DuplicateMessage</label>
+            </div>
+        </div>
+    </div>
+}
+<div>
+    @Html.ActionLink("Back to Home Page", "Index")
+</div>
+<!-- Adverts section-- displays different adverts of companies at the footer -->
+<div class="Advertisements">
+    <div class="container">
+        <h1 class="text-center">Advertisements</h1>
+        <div class="row">
+            <div class="col-md-4 col-lg-4 col-sm-12">
+                <div class="card">
+                    <div class="card-img">
+                        <img src="~/Advert Images/advert1.jfif" class="img-fluid">
+
                     </div>
-                       </div>
-              }
-                  <div>
-                        @Html.ActionLink("Back to Home Page", "Index")
-                  </div>
+
+                    <div class="card-body">
+                        <h4 class="card-title">Cloud Infrastucture</h4>
+                        <p class="card-text">
+
+                            Join our cloud courses to excell in cloud system!
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="" class="card-link">Learn more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-4 col-sm-12">
+                <div class="card">
+                    <div class="card-img">
+                        <img src="~/Advert Images/advert 2.jfif" class="img-fluid">
+
+                    </div>
+
+                    <div class="card-body">
+                        <h4 class="card-title">SG Courses</h4>
+                        <p class="card-text">
+
+                            Not confident wiith using computers? Join our courses today!
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="" class="card-link">Learn more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-4 col-sm-12">
+                <div class="card">
+                    <div class="card-img">
+                        <img src="~/Advert Images/advert3.jfif" class="img-fluid">
+
+                    </div>
+
+                    <div class="card-body">
+                        <h4 class="card-title">COMPUTER</h4>
+                        <p class="card-text">
+                            We are offering 10% for sudents on laptops. Don't miss the chance'
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="" class="card-link">Learn  more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
